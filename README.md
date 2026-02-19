@@ -17,9 +17,9 @@ This project is an **AI-powered voice emotion analyzer and companion** that list
 
 ### 1. Install Dependencies
 Make sure you have Python 3.9+ installed, then run:
-```bash
+
 pip install -r requirements.txt
-```
+
 
 ### 2. ⚙️ Setup
 
