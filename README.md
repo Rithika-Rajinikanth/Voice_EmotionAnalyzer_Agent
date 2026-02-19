@@ -17,9 +17,9 @@ This project is an **AI-powered voice emotion analyzer and companion** that list
 
 ### 1. Install Dependencies
 Make sure you have Python 3.9+ installed, then run:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 2. ⚙️ Setup
 
@@ -34,7 +34,7 @@ C:\ffmpeg-7.0.2-essentials_build\bin
 
 **2. Environment Variables**
 Create a .env file in the project root:
-ini
+init
 Copy
 Edit
 ```
@@ -48,9 +48,6 @@ Place an uplifting background track as calm.mp3 in the project directory.
 ### 3. ▶️ Usage
 ```
 Run the program:
-bash
-Copy
-Edit
 python voice.py
 ```
 ```
